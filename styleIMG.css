@@ -1,0 +1,21 @@
+p {
+	font-family: Anton;
+	font-size: 26px;
+	border-bottom: 3px solid #686c6e;
+	margin: 1.66%;
+	text-transform: uppercase;
+	text-align: center;
+}
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+div {
+	text-align: center;
+	font-family: Anton;
+	border-bottom: 3px solid #686c6e;
+}
+#video {
+	margin-top: 5px;
+}
